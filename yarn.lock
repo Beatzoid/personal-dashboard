@@ -165,7 +165,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@angular/animations@npm:^14.0.0":
+"@angular/animations@npm:^14.0.6":
   version: 14.0.6
   resolution: "@angular/animations@npm:14.0.6"
   dependencies:
@@ -206,7 +206,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@angular/common@npm:^14.0.0":
+"@angular/common@npm:^14.0.6":
   version: 14.0.6
   resolution: "@angular/common@npm:14.0.6"
   dependencies:
@@ -218,7 +218,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@angular/compiler-cli@npm:^14.0.0":
+"@angular/compiler-cli@npm:^14.0.6":
   version: 14.0.6
   resolution: "@angular/compiler-cli@npm:14.0.6"
   dependencies:
@@ -243,7 +243,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@angular/compiler@npm:^14.0.0":
+"@angular/compiler@npm:^14.0.6":
   version: 14.0.6
   resolution: "@angular/compiler@npm:14.0.6"
   dependencies:
@@ -257,7 +257,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@angular/core@npm:^14.0.0":
+"@angular/core@npm:^14.0.6":
   version: 14.0.6
   resolution: "@angular/core@npm:14.0.6"
   dependencies:
@@ -269,7 +269,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@angular/forms@npm:^14.0.0":
+"@angular/forms@npm:^14.0.6":
   version: 14.0.6
   resolution: "@angular/forms@npm:14.0.6"
   dependencies:
@@ -283,7 +283,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@angular/platform-browser-dynamic@npm:^14.0.0":
+"@angular/platform-browser-dynamic@npm:^14.0.6":
   version: 14.0.6
   resolution: "@angular/platform-browser-dynamic@npm:14.0.6"
   dependencies:
@@ -297,7 +297,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@angular/platform-browser@npm:^14.0.0":
+"@angular/platform-browser@npm:^14.0.6":
   version: 14.0.6
   resolution: "@angular/platform-browser@npm:14.0.6"
   dependencies:
@@ -313,7 +313,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@angular/router@npm:^14.0.0":
+"@angular/router@npm:^14.0.6":
   version: 14.0.6
   resolution: "@angular/router@npm:14.0.6"
   dependencies:
@@ -6622,16 +6622,16 @@ __metadata:
   resolution: "personal-dashboard@workspace:."
   dependencies:
     "@angular-devkit/build-angular": ^14.0.6
-    "@angular/animations": ^14.0.0
+    "@angular/animations": ^14.0.6
     "@angular/cli": ~14.0.6
-    "@angular/common": ^14.0.0
-    "@angular/compiler": ^14.0.0
-    "@angular/compiler-cli": ^14.0.0
-    "@angular/core": ^14.0.0
-    "@angular/forms": ^14.0.0
-    "@angular/platform-browser": ^14.0.0
-    "@angular/platform-browser-dynamic": ^14.0.0
-    "@angular/router": ^14.0.0
+    "@angular/common": ^14.0.6
+    "@angular/compiler": ^14.0.6
+    "@angular/compiler-cli": ^14.0.6
+    "@angular/core": ^14.0.6
+    "@angular/forms": ^14.0.6
+    "@angular/platform-browser": ^14.0.6
+    "@angular/platform-browser-dynamic": ^14.0.6
+    "@angular/router": ^14.0.6
     "@types/jasmine": ~4.0.0
     jasmine-core: ~4.1.0
     karma: ~6.3.0
@@ -6642,7 +6642,7 @@ __metadata:
     rxjs: ~7.5.0
     tslib: ^2.3.0
     typescript: ~4.7.2
-    zone.js: ~0.11.4
+    zone.js: ~0.11.6
   languageName: unknown
   linkType: soft
 
@@ -9005,7 +9005,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"zone.js@npm:~0.11.4":
+"zone.js@npm:~0.11.6":
   version: 0.11.6
   resolution: "zone.js@npm:0.11.6"
   dependencies:
