@@ -6641,7 +6641,7 @@ __metadata:
     karma-jasmine-html-reporter: ~2.0.0
     rxjs: ~7.5.0
     tslib: ^2.3.0
-    typescript: ~4.7.2
+    typescript: ~4.7.4
     zone.js: ~0.11.6
   languageName: unknown
   linkType: soft
@@ -8464,7 +8464,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@npm:~4.7.2":
+"typescript@npm:~4.7.4":
   version: 4.7.4
   resolution: "typescript@npm:4.7.4"
   bin:
@@ -8474,7 +8474,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@~4.7.2#~builtin<compat/typescript>":
+"typescript@patch:typescript@~4.7.4#~builtin<compat/typescript>":
   version: 4.7.4
   resolution: "typescript@patch:typescript@npm%3A4.7.4#~builtin<compat/typescript>::version=4.7.4&hash=7ad353"
   bin:
